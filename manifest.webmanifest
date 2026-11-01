@@ -1,0 +1,16 @@
+{
+  "name": "Lentils Soup",
+  "short_name": "Lentils Soup",
+  "id": "./",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "es",
+  "background_color": "#f6eedf",
+  "theme_color": "#7a4a1f",
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" },
+    { "src": "icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+  ]
+}
